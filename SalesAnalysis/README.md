@@ -7,5 +7,5 @@ Key Questions Solved:
 4. 5 Best Selling Products
 
 # Visualization
-Top 5 products sold
-Daily revenue line
+1. Top 5 products sold
+2. Daily revenue line
